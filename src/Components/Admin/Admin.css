@@ -1,0 +1,36 @@
+.sidebar {
+    width: 20%;
+    background-color: #1A2238;
+    height: 100vh;
+    text-align: center;
+    float: left;
+    position: fixed;
+    color: white;
+}
+.sidebar h1 {
+    margin: 3rem auto;
+    color: white;
+}
+.sidebar img {
+    width: 10%;
+    margin-right: 0.5rem;
+}
+.manage-product, .add-product, .edit-product {
+    display: flex;
+    justify-content: center;
+    transition: all 0.3s;
+    cursor: pointer;
+    margin: 2rem auto;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+.manage-product:hover, .add-product:hover, .edit-product:hover {
+    color: black;
+    background-color:  rgb(5, 244, 183);
+
+}
+.edit-section {
+    width: 80%;
+    float: right;
+    background-color:#12151F;
+}

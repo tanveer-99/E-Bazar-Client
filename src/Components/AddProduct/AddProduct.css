@@ -1,0 +1,63 @@
+.add {
+    background-color:#12151F;
+    height: 100vh;
+    position: fixed;
+    width: 100%;
+    overflow: hidden;
+}
+.add h3 {
+    padding: 2rem;
+    background-color:  rgb(6, 233, 176);
+}
+.add-details {
+    margin: 5rem 6rem auto 6rem;
+    /* background-color: #E5E5E5; */
+    padding: 2rem;
+    width: 70%;
+    border-radius: 20px;
+    color: white;
+    box-shadow: 0px 5px 25px rgb(5, 244, 183);
+}
+.name {
+    float: left;
+    margin-right: 2rem;
+}
+.price {
+    float: left;
+    margin-right: 2rem;
+}
+.name input {
+    width: 400px;
+    height: 40px;
+    background: #FFFFFF;
+    border: 0.666667px solid #C9C9C9;
+    border-radius: 10px;
+}
+
+.price input {
+    width: 400px;
+    height: 40px;
+    background: #FFFFFF;
+    border: 0.666667px solid #C9C9C9;
+    border-radius: 10px;
+}
+.photo input {
+    background: #FFFFFF;
+    border: 0.666667px solid #C9C9C9;
+    border-radius: 10px;
+    
+}
+.add .submit {
+    border: none;
+    background-color: rgb(5, 244, 183);
+    color: white;
+    padding: 8px 20px;
+    border-radius: 10px;
+    transition: all 0.5s;
+    margin-left: 6rem;
+    margin-top: 1.5rem;
+    width: 80px;
+}
+.add .submit:hover {
+    color: black;
+}

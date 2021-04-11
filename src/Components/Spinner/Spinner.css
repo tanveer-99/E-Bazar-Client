@@ -1,0 +1,13 @@
+.spinner-border {
+    color: rgb(6, 233, 176);
+    height: 80px !important;
+    width: 80px !important;
+  
+}
+.spinner {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    
+}

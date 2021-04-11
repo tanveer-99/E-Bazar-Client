@@ -1,0 +1,27 @@
+.nav-link {
+    font-size: 1rem;
+    color: white !important;
+}
+.navbar-brand {
+    color: white !important;
+    font-size: 2rem !important;
+}
+.navbar-brand {
+    font-size: 1.5rem;
+}
+nav button {
+    background-color: #05F4B7;
+    padding: 8px 16px;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    transition: all 0.5s;
+}
+nav button:hover {
+    color: black;
+    
+}
+nav li {
+    margin-right: 0.5rem;
+}
+

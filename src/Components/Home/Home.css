@@ -1,0 +1,25 @@
+.search-food {
+    margin: 0 30%;
+}
+.search-food button {
+    border: none;
+    background-color: #05F4B7;
+    padding: 6px 16px;
+    color: white;
+    transition: all 0.5s;
+    height: 41px;
+}
+.search-food input {
+    border: none;
+    background-color: #F1F1F1;
+    height: 40px;
+    width: 300px;
+    padding-left: 15px;
+}
+.search-food input:focus {
+    outline: none;
+}
+.home {
+    background-color: #12151F;
+  
+}

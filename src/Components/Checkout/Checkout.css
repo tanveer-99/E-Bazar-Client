@@ -1,0 +1,40 @@
+.checkout-section {
+    margin: 5rem auto;
+    
+}
+.checkout-section h3 {
+    color: white;
+}
+tr {
+    color: white;
+}
+.data:hover {
+    color: rgb(5, 244, 183);
+}
+.checkout-page {
+    background-color: #12151F;
+    height: 100vh;
+    
+}
+.checkout {
+    padding: 2rem;
+    box-shadow: 0px 5px 25px rgb(5, 244, 183);
+    border-radius: 20px;
+}
+.checkout td {
+    font-weight: bold;
+}
+.checkout th {
+    font-weight: lighter;
+}
+.checkout button {
+    border: none;
+    background-color: #05F4B7;
+    color: white;
+    padding: 8px 15px;
+    border-radius: 10px;
+    transition: all 0.5s;
+}
+.checkout button:hover {
+    color: black;
+}
